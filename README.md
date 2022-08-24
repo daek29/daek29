@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daek29
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning pytone and database
+- 🌱 I’m currently learning python and database
 - 📫 How to reach me  daek29@season.co.kr
 
 <!---
